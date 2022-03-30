@@ -1,8 +1,8 @@
-package HelloWorld;
+package helloWorld;
 
 public class James{
   
   public static void main(String [] args){
-    Sysrem.out.println("James hacked into the project");
+    System.out.println("James hacked into the project");
   }
 }
